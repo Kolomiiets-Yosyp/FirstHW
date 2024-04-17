@@ -1,0 +1,157 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2018
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019
+  },
+  {
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2017
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020
+  },
+  {
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2019
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2018
+  },
+  {
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2020
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2021
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Silverado",
+    "year": 2017
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020
+  },
+  {
+    "brand": "Ford",
+    "model": "Explorer",
+    "year": 2019
+  },
+  {
+    "brand": "Honda",
+    "model": "Pilot",
+    "year": 2018
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2021
+  },
+  {
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2019
+  },
+  {
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2020
+  },
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "year": 2017
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2018
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2021
+  },
+  {
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2019
+  },
+  {
+    "brand": "Toyota",
+    "model": "Tacoma",
+    "year": 2020
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2017
+  },
+  {
+    "brand": "Honda",
+    "model": "Fit",
+    "year": 2018
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "year": 2021
+  },
+  {
+    "brand": "Nissan",
+    "model": "Versa",
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Accent",
+    "year": 2019
+  },
+  {
+    "brand": "Toyota",
+    "model": "Sienna",
+    "year": 2020
+  },
+  {
+    "brand": "Ford",
+    "model": "Edge",
+    "year": 2017
+  },
+  {
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2018
+  }
+]
