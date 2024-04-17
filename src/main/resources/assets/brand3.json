@@ -1,0 +1,157 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2018
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019
+  },
+  {
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2017
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020
+  },
+  {
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2019
+  },
+  {
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2018
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Jetta",
+    "year": 2021
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2020
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2017
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2019
+  },
+  {
+    "brand": "Lexus",
+    "model": "ES",
+    "year": 2020
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2021
+  },
+  {
+    "brand": "Subaru",
+    "model": "Impreza",
+    "year": 2018
+  },
+  {
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2020
+  },
+  {
+    "brand": "Volvo",
+    "model": "S60",
+    "year": 2019
+  },
+  {
+    "brand": "Chrysler",
+    "model": "300",
+    "year": 2017
+  },
+  {
+    "brand": "Buick",
+    "model": "Regal",
+    "year": 2018
+  },
+  {
+    "brand": "Cadillac",
+    "model": "CTS",
+    "year": 2016
+  },
+  {
+    "brand": "Acura",
+    "model": "TLX",
+    "year": 2021
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Q50",
+    "year": 2019
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2018
+  },
+  {
+    "brand": "Jaguar",
+    "model": "XE",
+    "year": 2017
+  },
+  {
+    "brand": "Genesis",
+    "model": "G70",
+    "year": 2020
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera",
+    "year": 2019
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulia",
+    "year": 2021
+  },
+  {
+    "brand": "Fiat",
+    "model": "500",
+    "year": 2018
+  },
+  {
+    "brand": "Mini",
+    "model": "Cooper",
+    "year": 2017
+  },
+  {
+    "brand": "Smart",
+    "model": "Fortwo",
+    "year": 2020
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": 2019
+  },
+  {
+    "brand": "Jeep",
+    "model": "Wrangler",
+    "year": 2020
+  }
+]
