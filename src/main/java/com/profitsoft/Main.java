@@ -6,7 +6,7 @@ import com.profitsoft.service.TimeCount;
 
 public class Main {
     static String path = "/Users/imac/Desktop/FirstHW/src/main/resources/assets";
-    static String attribute = "year";
+    static String attribute = "brand";
     static int numberOfThreads = 5; // Кількість потоків для парсингу
     public static void main(String[] args) {
 

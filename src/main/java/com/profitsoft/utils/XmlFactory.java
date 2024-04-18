@@ -6,6 +6,7 @@ import org.w3c.dom.Node;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
@@ -36,11 +37,14 @@ public class XmlFactory {
                 rootElement.appendChild(attribute);
             }
 
+            // Записуємо XML в файл
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
+            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4"); // Встановлюємо відступи
             DOMSource source = new DOMSource(doc);
-            StreamResult file = new StreamResult(new File(fileName));
-            transformer.transform(source, file);
+            StreamResult result = new StreamResult(new File(fileName));
+            transformer.transform(source, result);
 
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());

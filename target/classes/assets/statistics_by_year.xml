@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><statistics><item><value>2019</value><count>37</count></item><item><value>2020</value><count>34</count></item><item><value>2018</value><count>33</count></item><item><value>2017</value><count>25</count></item><item><value>2021</value><count>23</count></item><item><value>2016</value><count>12</count></item></statistics>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+    <item>
+        <value>2019</value>
+        <count>37</count>
+    </item>
+    <item>
+        <value>2020</value>
+        <count>34</count>
+    </item>
+    <item>
+        <value>2018</value>
+        <count>33</count>
+    </item>
+    <item>
+        <value>2017</value>
+        <count>25</count>
+    </item>
+    <item>
+        <value>2021</value>
+        <count>23</count>
+    </item>
+    <item>
+        <value>2016</value>
+        <count>12</count>
+    </item>
+</statistics>

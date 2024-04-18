@@ -19,7 +19,7 @@ public class CarService {
             Field[] fields = Car.class.getDeclaredFields();
             List<String> attributes = Arrays.stream(fields)
                     .map(Field::getName)
-                    .collect(Collectors.toList());
+                    .toList();
             if (!attribute.isEmpty() && !attributes.contains(attribute)) {
                 System.out.println("Wrong attribute name");
                 return;
@@ -39,7 +39,6 @@ public class CarService {
                 return;
             }
 
-            // Генеруємо XML-файл зі статистикою
             generateStatisticsXml(directoryPath, attribute, cars);
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
